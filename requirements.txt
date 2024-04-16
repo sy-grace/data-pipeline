@@ -1,0 +1,12 @@
+SpeechRecognition
+gtts
+playsound
+Pyaudio
+PyKakao
+selenium
+bs4
+sumy
+webdriver-manager
+apscheduler
+streamlit
+slack_sdk
